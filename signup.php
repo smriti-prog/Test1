@@ -15,6 +15,7 @@
         width: 80%;
         margin: 0 auto;
     }
+    smriti
 
     form > div{
         margin: 2rem 0;
